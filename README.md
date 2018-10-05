@@ -10,6 +10,8 @@ Each algorithm and data structure has its own separate README
 with related explanations and links for further reading (including ones
 to YouTube videos).
 
+I LOVE JAVASCRIPT
+
 _Read this in other languages:_
 [简体中文](README.zh-CN.md),
 [繁體中文](README.zh-TW.md)
